@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.HavenSync.app-mergeDebugResources-57:/values-no/values-no.xml",
+            "outputFile": "com.HavenSync.app-mergeDebugResources-78:/values-no/values-no.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sathish\\App\\node_modules\\react-native-date-picker\\android\\build\\intermediates\\packaged_res\\debug\\packageDebugResources\\values-no\\values-no.xml",
